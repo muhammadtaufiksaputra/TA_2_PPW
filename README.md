@@ -1,6 +1,8 @@
+Website Sebelum
 <img width="958" height="485" alt="image" src="https://github.com/user-attachments/assets/4518dd9d-b05d-4b93-8221-9630daa84d50" />
-<img width="572" height="133" alt="image" src="https://github.com/user-attachments/assets/70df99e0-9101-4aad-b545-48a1af61ac09" />
+Website Sesudah
 <img width="917" height="409" alt="image" src="https://github.com/user-attachments/assets/8a3bc44a-2a80-4b12-9f05-28c67d8504d0" />
+
 Ini adalah proyek website profil pribadi yang saya buat sebagai bagian dari tugas akhir praktikum Pemrograman Web. Website ini berfungsi untuk memperkenalkan diri saya secara digital, menampilkan latar belakang pendidikan, minat, serta hobi saya dengan tampilan visual yang menarik dan mudah dinavigasi.
 
 Rancang Bangun dan Tujuan
@@ -57,3 +59,6 @@ Peningkatan tampilan header dan navigasi agar terlihat profesional.
 Kesimpulan
 
 Website ini bukan hanya sebagai tugas akhir praktikum, tetapi juga sebagai latihan nyata dalam mengimplementasikan konsep dasar HTML dan CSS untuk membangun website pribadi yang fungsional dan estetis. Dengan adanya halaman tambahan dan pembaruan gaya, website ini menjadi lebih informatif dan mencerminkan karakter saya sebagai mahasiswa Teknik Informatika yang kreatif dan bersemangat untuk terus belajar.
+
+Foto dari git log --graph --oneline
+<img width="572" height="133" alt="image" src="https://github.com/user-attachments/assets/70df99e0-9101-4aad-b545-48a1af61ac09" />
