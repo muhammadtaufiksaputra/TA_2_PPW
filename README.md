@@ -1,3 +1,6 @@
+<img width="958" height="485" alt="image" src="https://github.com/user-attachments/assets/4518dd9d-b05d-4b93-8221-9630daa84d50" />
+<img width="572" height="133" alt="image" src="https://github.com/user-attachments/assets/70df99e0-9101-4aad-b545-48a1af61ac09" />
+<img width="917" height="409" alt="image" src="https://github.com/user-attachments/assets/8a3bc44a-2a80-4b12-9f05-28c67d8504d0" />
 Ini adalah proyek website profil pribadi yang saya buat sebagai bagian dari tugas akhir praktikum Pemrograman Web. Website ini berfungsi untuk memperkenalkan diri saya secara digital, menampilkan latar belakang pendidikan, minat, serta hobi saya dengan tampilan visual yang menarik dan mudah dinavigasi.
 
 Rancang Bangun dan Tujuan
@@ -12,18 +15,13 @@ Header
 Berisi logo dan navigasi sticky yang memudahkan pengunjung berpindah antarhalaman seperti Beranda, Tentang Saya, Keahlian, Kontak, dan Hobi & Minat.
 
 Section Tentang Saya
-Menjelaskan profil singkat, biodata diri (termasuk NPM: 2315061005), serta filosofi hidup:
-
-"Jika tidak bisa membahagiakan, setidaknya jangan mengecewakan."
-
+Menjelaskan profil singkat, biodata diri (termasuk NPM: 2315061005),
 Section Keahlian
 Disusun dalam bentuk kartu dengan gaya CSS yang menarik dan efek hover modern, menampilkan kemampuan saya di bidang:
 
 HTML5
 
 CSS3
-
-Figma
 
 Section Baru: Hobi dan Minat
 Bagian tambahan yang berisi informasi tentang aktivitas yang saya sukai di luar bidang akademik, seperti:
